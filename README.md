@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on different projects.
 - 💣 I’m currently learning frontend technologies.
 - 📫 How to reach me: moyanopaulas@gmail.com
-- ✨ Mi portfolio: https://paulamoyano.github.io/Portfolio-Paula/
+- ✨ Portfolio: https://paulamoyano.github.io/Portfolio-Paula/
 - 🌱 Hobbies: coffee lover, birdwatching, plants fan.
 
 
