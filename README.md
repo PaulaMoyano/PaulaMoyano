@@ -9,17 +9,17 @@
 
 ### 💫 Mis proyectos 💫 
 * #### ***Baireshost***:
-   * Ver [Github](https://github.com/PaulaMoyano/Front-BairesHost-HTML)
+  * Ver [Github](https://github.com/PaulaMoyano/Front-BairesHost-HTML)
   * Visitar [Web Baireshost](https://paulamoyano.github.io/Front-BairesHost-HTML/) 
   * Descripcion: 🧠 Web para empresa que ofrece servicios de desarrollo y diseño de páginas web. 🧠
  
  * #### ***Die Katze***:
-   * Ver [Github](https://github.com/PaulaMoyano/DieKatze)
+  * Ver [Github](https://github.com/PaulaMoyano/DieKatze)
   * Visitar [Web Die Katze]() 
   * Descripcion: 😻 Die Kazte es una tienda online con productos para gatos: alimentos secos y humedos, snacks, piedras sanitarias, kits de higiene, juguetes tales como ratoncitos y plumitas. Esta destinada a facilitar las compras de humanos compañeros de gatos. 😻
  
- * #### ***Mi portfolio***:
-   * Ver [Github](https://github.com/PaulaMoyano/Portfolio-Paula)
+ * #### ***Mi portfolio***: 
+  * Ver [Github](https://github.com/PaulaMoyano/Portfolio-Paula)
   * Visitar [Mi portolio](https://paulamoyano.github.io/Portfolio-Paula/) 
   * Descripcion: 💗 Mi portfolio 💗
  
