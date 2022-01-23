@@ -4,7 +4,7 @@
 - 💣 I’m currently learning frontend technologies.
 - 📫 How to reach me: moyanopaulas@gmail.com
 - ✨ Portfolio: https://paulamoyano.github.io/Portfolio-Paula/
-- 🌱 Hobbies: coffee lover, birdwatching, plants fan.
+- 🌱 Hobbies: coffee lover, birdwatching, plants & dinosaurs fan.
 
 
 ### 💫 Mis proyectos 💫 
