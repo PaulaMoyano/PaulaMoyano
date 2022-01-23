@@ -5,7 +5,7 @@
 - 📫 How to reach me: moyanopaulas@gmail.com
 
 
-### ⚡ Mis proyectos:⚡ 
+### ⚡ Mis proyectos ⚡ 
 * #### ***Baireshost***:
    * Ver [Github](https://github.com/PaulaMoyano/Front-BairesHost-HTML)
   * Visitar [Web Baireshost](https://paulamoyano.github.io/Front-BairesHost-HTML/) 
