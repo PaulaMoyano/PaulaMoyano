@@ -1,4 +1,4 @@
-## Hi there, I'm Paula 👋 
+## Hi there, I'm Paula 👋 🦖
 
 - 🔭 I’m currently working on different projects.
 - 💣 I’m currently learning frontend technologies.
