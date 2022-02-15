@@ -31,7 +31,7 @@
 * #### ***A-Frame Space***:
   * Ver [Github](https://github.com/PaulaMoyano/A-frame-space)
   * Visitar [Web A-Frame](https://paulamoyano.github.io/A-frame-space/index.html)
-  * Descripcion: 🦖 Conociendo y practicando A-Frame. Incluye un dinosaurio corriendo y varias figuras geométricas 🦖
+  * Descripcion: 🦖 Conociendo y practicando A-Frame, realidad virtual. Incluye un dinosaurio corriendo y varias figuras geométricas 🦖
 
  
  
