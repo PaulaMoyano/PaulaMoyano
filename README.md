@@ -1,4 +1,4 @@
-## Hi there, I'm Paula 👋 🦖
+## Hi, I'm Paula 👋 🦖
 
 - 🔭 I’m currently working on different projects.
 - 💣 I’m currently learning frontend technologies.
@@ -25,7 +25,7 @@
 * #### ***Mi portfolio***: 
   * Ver [Github](https://github.com/PaulaMoyano/Portfolio-Paula)
   * Visitar [Mi portolio](https://paulamoyano.github.io/Portfolio-Paula/) 
-  * Descripcion: 💗 Mi portfolio 💗
+  * Descripcion: 💗 Mi portfolio. 💗
 
 
 
@@ -40,6 +40,15 @@
   * Ver [Github](https://github.com/PaulaMoyano/Alquiler-Bariloche)
   * Visitar [Web Alojamiento](https://paulamoyano.github.io/Alquiler-Bariloche/)
   * Descripcion: 🗻 Pagina web para promocionar alojamiento turistico en Bariloche. 🗻
+
+
+
+* #### ***TaTeTi***:
+  * Ver [Github](https://github.com/PaulaMoyano/TaTeTi)
+  * Visitar [Jugar TaTeTi]()
+  * Descripcion: 👾 Juego de tateti hecho con ReactJs. 👾
+
+
 
  
  
