@@ -18,7 +18,7 @@
 * #### ***Die Katze***:
   * Ver [Github](https://github.com/PaulaMoyano/DieKatze)
   * Visitar [Web Die Katze](https://diekatze.netlify.app/) 
-  * Descripcion: 😻 Die Kazte es una tienda online con productos para gatos: alimentos secos y humedos, snacks, piedras sanitarias, kits de higiene, juguetes tales como ratoncitos y plumitas. Esta destinada a facilitar las compras de humanos compañeros de gatos. 😻
+  * Descripcion: 😻 Die Kazte es una tienda online con productos para gatos: alimentos secos y humedos, snacks, piedras sanitarias, kits de higiene, juguetes tales como ratoncitos y plumitas. Está destinada a facilitar las compras de humanos compañeros de gatos. 😻
  
  
  
@@ -39,7 +39,7 @@
 * #### ***Alquiler turistico***:
   * Ver [Github](https://github.com/PaulaMoyano/Alquiler-Bariloche)
   * Visitar [Web Alojamiento](https://paulamoyano.github.io/Alquiler-Bariloche/)
-  * Descripcion: 🗻 Pagina web para promocionar alojamiento turistico en Bariloche. 🗻
+  * Descripcion: 🗻 Página web para promocionar alojamiento turistico en Bariloche. 🗻
 
 
 
