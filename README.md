@@ -50,6 +50,13 @@
 
 
 
+* #### ***Pizza App***:
+  * Ver [Github](https://github.com/PaulaMoyano/Pizza-App)
+  * Visitar [Pizza App]()
+  * Descripcion: 🍕 App creada con ReactJs para cocinar pizza con distintos ingredientes. 🍕
+
+
+
  
  
 
