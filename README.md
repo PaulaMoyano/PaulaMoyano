@@ -56,7 +56,7 @@
   * Descripcion: 🍕 App creada con ReactJs para cocinar pizza con distintos ingredientes. 🍕
   
   
-  * #### ***Pauflix***: //EN PROCESO//
+* #### ***Pauflix***: //EN PROCESO//
   * Ver [Github](https://github.com/PaulaMoyano/Pauflix)
   * Visitar [Pauflix]()
   * Descripcion: 🍿 App creada con ReactJs con mis peliculas favoritas. 🍿
