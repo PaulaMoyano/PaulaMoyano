@@ -18,7 +18,7 @@
 * #### ***Die Katze***:
   * Ver [Github](https://github.com/PaulaMoyano/DieKatze)
   * Visitar [Web Die Katze](https://diekatze.netlify.app/) 
-  * Descripcion: 😻 Die Kazte es una tienda online con productos para gatos: alimentos secos y humedos, snacks, piedras sanitarias, kits de higiene, juguetes tales como ratoncitos y plumitas. Está destinada a facilitar las compras de humanos compañeros de gatos. 😻
+  * Descripcion: 😻 Tienda online creada con ReactJs con productos para gatos: alimentos secos y humedos, snacks, piedras sanitarias, kits de higiene, juguetes tales como ratoncitos y plumitas. Está destinada a facilitar las compras de humanos compañeros de gatos. 😻
  
  
  
@@ -32,7 +32,7 @@
 * #### ***A-Frame Space***:
   * Ver [Github](https://github.com/PaulaMoyano/A-frame-space)
   * Visitar [Web A-Frame](https://paulamoyano.github.io/A-frame-space/index.html)
-  * Descripcion: 🦖 Conociendo y practicando A-Frame, realidad virtual. Incluye un dinosaurio corriendo y varias figuras geométricas. 🦖
+  * Descripcion: 🦖 Conociendo y practicando A-Frame JS, realidad virtual. Incluye un dinosaurio corriendo y varias figuras geométricas. 🦖
 
 
 
