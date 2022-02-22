@@ -11,55 +11,55 @@
 * #### ***Baireshost***:
   * Ver [Github](https://github.com/PaulaMoyano/Front-BairesHost-HTML)
   * Visitar [Web Baireshost](https://paulamoyano.github.io/Front-BairesHost-HTML/) 
-  * Descripcion: 🧠 Web para empresa que ofrece servicios de desarrollo y diseño de páginas web. 🧠
+  * Descripción: 🧠 Web para empresa que ofrece servicios de desarrollo y diseño de páginas web. 🧠
   
  
  
 * #### ***Die Katze***:
   * Ver [Github](https://github.com/PaulaMoyano/DieKatze)
   * Visitar [Web Die Katze](https://diekatze.netlify.app/) 
-  * Descripcion: 😻 Tienda online creada con ReactJs con productos para gatos: alimentos secos y humedos, snacks, piedras sanitarias, kits de higiene, juguetes tales como ratoncitos y plumitas. Está destinada a facilitar las compras de humanos compañeros de gatos. 😻
+  * Descripción: 😻 Tienda online creada con ReactJs con productos para gatos: alimentos secos y humedos, snacks, piedras sanitarias, kits de higiene, juguetes tales como ratoncitos y plumitas. 😻
  
  
  
 * #### ***Mi portfolio***: 
   * Ver [Github](https://github.com/PaulaMoyano/Portfolio-Paula)
   * Visitar [Mi portolio](https://paulamoyano.github.io/Portfolio-Paula/) 
-  * Descripcion: 💗 Mi portfolio. 💗
+  * Descripción: 💗 Mi portfolio. 💗
 
 
 
 * #### ***A-Frame Space***:
   * Ver [Github](https://github.com/PaulaMoyano/A-frame-space)
   * Visitar [Web A-Frame](https://paulamoyano.github.io/A-frame-space/index.html)
-  * Descripcion: 🦖 Conociendo y practicando A-Frame JS, realidad virtual. Incluye un dinosaurio corriendo y varias figuras geométricas. 🦖
+  * Descripción: 🦖 Conociendo y practicando A-Frame JS, realidad virtual. Incluye un dinosaurio corriendo y varias figuras geométricas. 🦖
 
 
 
 * #### ***Alquiler turistico***:
   * Ver [Github](https://github.com/PaulaMoyano/Alquiler-Bariloche)
   * Visitar [Web Alojamiento](https://paulamoyano.github.io/Alquiler-Bariloche/)
-  * Descripcion: 🗻 Página web para promocionar alojamiento turistico en Bariloche. 🗻
+  * Descripción: 🗻 Página web para promocionar alojamiento turístico en Bariloche. 🗻
 
 
 
 * #### ***TaTeTi***: //EN PROCESO, FALTA MEJORAR EL DISEÑO//
   * Ver [Github](https://github.com/PaulaMoyano/TaTeTi)
   * Visitar [Jugar TaTeTi]()
-  * Descripcion: 👾 Juego de tateti hecho con ReactJs. 👾
+  * Descripción: 👾 Juego de tateti hecho con ReactJs. 👾
 
 
 
 * #### ***Pizza App***: //EN PROCESO, FALTAN FUNCIONALIDADES CON REACTJS//
   * Ver [Github](https://github.com/PaulaMoyano/Pizza-App)
   * Visitar [Pizza App]()
-  * Descripcion: 🍕 App creada con ReactJs para cocinar pizza con distintos ingredientes. 🍕
+  * Descripción: 🍕 App creada con ReactJs para cocinar pizza con distintos ingredientes. 🍕
   
   
 * #### ***Pauflix***: //EN PROCESO//
   * Ver [Github](https://github.com/PaulaMoyano/Pauflix)
   * Visitar [Pauflix]()
-  * Descripcion: 🍿 App creada con ReactJs con mis peliculas favoritas. 🍿
+  * Descripción: 🍿 App creada con ReactJs con mis películas favoritas. 🍿
 
 
 
