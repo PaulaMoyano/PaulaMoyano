@@ -36,7 +36,7 @@
 
 
 
-* #### ***Alquiler turistico***:
+* #### ***Alquiler turístico***:
   * Ver [Github](https://github.com/PaulaMoyano/Alquiler-Bariloche)
   * Visitar [Web Alojamiento](https://paulamoyano.github.io/Alquiler-Bariloche/)
   * Descripción: 🗻 Página web para promocionar alojamiento turístico en Bariloche. 🗻
