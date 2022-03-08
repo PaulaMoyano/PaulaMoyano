@@ -45,7 +45,7 @@
 
 * #### ***TaTeTi***:
   * Ver [Github](https://github.com/PaulaMoyano/TaTeTi)
-  * Visitar [Jugar TaTeTi]()
+  * Visitar [Jugar TaTeTi](https://pautateti.netlify.app/)
   * Descripción: 👾 Juego de tateti hecho con ReactJs. 👾
 
 
