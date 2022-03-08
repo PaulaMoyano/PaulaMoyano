@@ -43,14 +43,14 @@
 
 
 
-* #### ***TaTeTi***: //EN PROCESO, FALTA MEJORAR EL DISEÑO//
+* #### ***TaTeTi***:
   * Ver [Github](https://github.com/PaulaMoyano/TaTeTi)
   * Visitar [Jugar TaTeTi]()
   * Descripción: 👾 Juego de tateti hecho con ReactJs. 👾
 
 
 
-* #### ***Pizza App***: //EN PROCESO, FALTAN FUNCIONALIDADES CON REACTJS//
+* #### ***Pizza App***: //EN PROCESO//
   * Ver [Github](https://github.com/PaulaMoyano/Pizza-App)
   * Visitar [Pizza App]()
   * Descripción: 🍕 App creada con ReactJs para cocinar pizza con distintos ingredientes. 🍕
