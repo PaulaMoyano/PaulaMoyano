@@ -25,7 +25,7 @@
 * #### ***Mi portfolio***: 
   * Ver [Github](https://github.com/PaulaMoyano/Portfolio-Paula)
   * Visitar [Mi portolio](https://paulamoyano.github.io/Portfolio-Paula/) 
-  * Descripción: 💗 Mi portfolio. 💗
+  * Descripción: 💗 Mi portfolio (Enero 2022). 💗
 
 
 
