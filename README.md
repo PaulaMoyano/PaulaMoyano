@@ -6,6 +6,12 @@
 - ✨ Portfolio: https://paulamoyano.github.io/Portfolio-Paula/
 - 🌱 Hobbies: coffee lover, birdwatching, plants & dinosaurs fan.
 
+Connect with me:
+
+
+Languages and Tools:
+css3 git html5 javascript react sass tailwind
+
 
 ### 💫 Mis proyectos 💫 
 * #### ***Baireshost***:
