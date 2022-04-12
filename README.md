@@ -59,6 +59,11 @@
   * Ver [Github](https://github.com/PaulaMoyano/Pauflix)
   * Visitar [Pauflix](https://pauflix.netlify.app/)
   * Descripción: 🍿 App creada con ReactJs con mis películas favoritas. 🍿
+   
+   
+* #### ***Dapp***: 
+  * Ver [Github]()
+  * Descripción: Dapp Smart Contract + React. Dapp FE + Dapp SC
 
 
 
