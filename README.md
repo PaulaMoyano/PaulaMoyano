@@ -63,11 +63,15 @@
    
 * #### ***Dapp***: 
   * Ver [Github](https://github.com/PaulaMoyano/CounterDappSC)
-  * Descripción: Dapp Smart Contract + React. Dapp FE + Dapp SC
+  * Descripción: Dapp Smart Contract + React // Dapp FrontEnd + Dapp SmartContract
+
+
+* #### ***Web App MetaMask***: 
+  * Ver [Github](https://github.com/PaulaMoyano/WebAppMetamask)
+  * Descripción: Web App using React that Connects with the MetaMask Extension. 
 
 
 
- 
  
 
 ![Coding Cat](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy-downsized.gif)
