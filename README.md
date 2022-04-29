@@ -1,7 +1,7 @@
    ## Hi, I'm Paula 👋 🦖
 
 - 🔭 I’m currently working on different projects.
-- 💣 I’m currently learning frontend technologies.
+- 💣 I’m currently learning new technologies.
 - 📫 How to reach me: moyanopaulas@gmail.com
 - ✨ Portfolio: https://paulamoyano.github.io/Portfolio-Paula/
 - 🌱 Hobbies: coffee lover, birdwatching, plants & dinosaurs fan.
