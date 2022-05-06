@@ -10,14 +10,14 @@
 * #### ***Baireshost***:
   * Ver [Github](https://github.com/PaulaMoyano/Front-BairesHost-HTML)
   * Visitar [Web Baireshost](https://paulamoyano.github.io/Front-BairesHost-HTML/) 
-  * Descripción: Web para empresa que ofrece servicios de desarrollo y diseño de páginas web.
+  * Descripción: Re-design para empresa que ofrece servicios de desarrollo, hosting y diseño de páginas web.
   
  
  
 * #### ***Die Katze***:
   * Ver [Github](https://github.com/PaulaMoyano/DieKatze)
   * Visitar [Web Die Katze](https://diekatze.netlify.app/) 
-  * Descripción: Tienda online creada con ReactJs con productos para gatos: alimentos secos y humedos, snacks, piedras sanitarias, kits de higiene, juguetes tales como ratoncitos y plumitas.
+  * Descripción: Tienda online creada con React con productos para gatos.
  
  
  
@@ -38,32 +38,32 @@
 * #### ***Alquiler turístico***:
   * Ver [Github](https://github.com/PaulaMoyano/Alquiler-Bariloche)
   * Visitar [Web Alojamiento](https://paulamoyano.github.io/Alquiler-Bariloche/)
-  * Descripción: Página web para promocionar alojamiento turístico en Bariloche.
+  * Descripción: Web para alojamiento turístico en Bariloche.
 
 
 
 * #### ***TaTeTi***:
   * Ver [Github](https://github.com/PaulaMoyano/TaTeTi)
   * Visitar [Jugar TaTeTi](https://pautateti.netlify.app/)
-  * Descripción: Juego de tateti hecho con ReactJs.
+  * Descripción: Juego de tateti hecho con React.
 
 
 
 * #### ***Pizza App***:
   * Ver [Github](https://github.com/PaulaMoyano/Pizza-App)
   * Visitar [Pizza App](https://pizzapau.netlify.app/)
-  * Descripción: App creada con ReactJs, botones con Bootstrap.
+  * Descripción: App creada con React - botones con Bootstrap.
   
   
 * #### ***Pauflix***: //EN PROCESO//
   * Ver [Github](https://github.com/PaulaMoyano/Pauflix)
   * Visitar [Pauflix](https://pauflix.netlify.app/)
-  * Descripción: App creada con ReactJs con mis películas favoritas.
+  * Descripción: App creada con React con mis películas favoritas.
    
    
 * #### ***Dapp***: 
   * Ver [Github](https://github.com/PaulaMoyano/CounterDappSC)
-  * Descripción: Dapp Smart Contract + React // Dapp FrontEnd + Dapp SmartContract
+  * Descripción: Dapp Smart Contract + React // Dapp FrontEnd + Dapp SmartContract.
 
 
 * #### ***Web App MetaMask***: 
